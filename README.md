@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [ArtClubVT](https://github.com/Boyan-Apostolov/ArtClubVT)
 
-- 🌱 I’m currently learning **JavaScript Applications @ SoftUni**
+- 🌱 I’m currently learning **HTML/CSS and Angular @ SoftUni**
 
 - 👨‍💻 All of my projects are available at [http://boyan-apostolov.github.io/](http://boyan-apostolov.github.io/)
 
-- 📫 How to reach me **boian4932@gmail.com**
+- 📫 How to reach me **Bobby_Apostolov@students.softuni.bg**
 
 - ⚡ Fun fact **In my free time I like tinkering with Arduino and sensors**
 
