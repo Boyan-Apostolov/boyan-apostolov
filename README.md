@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Boyan !</h1>
 <h3 align="center">I'm a student from Bulgaria!</h3>
 
-- 🔭 I’m currently working on [ArtClubVT](https://github.com/Boyan-Apostolov/ArtClubVT)
+- 🔭 I’m currently working on [Easy-Blog-Angular-Project](https://github.com/Boyan-Apostolov/Easy-Blog-Angular-project)
 
 - 🌱 I’m currently learning **HTML/CSS and Angular @ SoftUni**
 
