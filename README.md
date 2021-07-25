@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Easy-Blog-Angular-Project](https://github.com/Boyan-Apostolov/Easy-Blog-Angular-project)
 
-- 🌱 I’m currently learning **HTML/CSS and Angular @ SoftUni**
+- 🌱 I’m currently learning **Angular @ SoftUni**
 
 - 👨‍💻 All of my projects are available at [http://boyan-apostolov.github.io/](http://boyan-apostolov.github.io/)
 
