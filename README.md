@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Bobby_Apostolov@students.softuni.bg**
 
-- ⚡ Fun fact **In my free time I like tinkering with Arduino and sensors**
+- ⚡ Fun fact **In my free time I like tinkering with Arduino and sensors and playing video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
