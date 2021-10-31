@@ -4,7 +4,7 @@
 <h3 align="center">I'm a student from Bulgaria!</h3>
 
 
-- 🔭 I’m currently working on [Easy-Blog-Angular-Project](https://github.com/Boyan-Apostolov/Easy-Blog-Angular-project)
+- 🔭 I’m currently working on [DeemZ](https://github.com/Berat-Dzhevdetov/DeemZ)
 
 - 🌱 I’m currently learning **Angular @ SoftUni**
 
