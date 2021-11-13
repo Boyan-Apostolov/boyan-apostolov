@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Angular @ SoftUni**
 
-- 👨‍💻 All of my projects are available at [http://boyan-apostolov.github.io/](http://boyan-apostolov.github.io/)
+- 👨‍💻 All of my projects are available at [Protfolio](http://boyan-apostolov.github.io/)
 
 - 📫 Reach me at **Bobby_Apostolov@students.softuni.bg**
 
