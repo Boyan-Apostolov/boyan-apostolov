@@ -4,7 +4,7 @@
 <h3 align="center">I'm a student from Bulgaria!</h3>
 
 
-- 🔭 I’m currently working on [MovieLand](https://github.com/Boyan-Apostolov/MovieLand)
+- 🔭 I’m currently working with [InvestTeam Ltd](https://www.linkedin.com/company/investteam-ltd/about/)
 
 - 🌱 I’m currently learning **how to be a good developer :)**
 
