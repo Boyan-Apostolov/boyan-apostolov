@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, my name is Boyan !</h1>
-<h3 align="center">I'm a student from Bulgaria!</h3>
+<h3 align="center">I'm a Junior Fullstack Developer from Bulgaria!</h3>
 
 
 - 🔭 I’m currently working with [InvestTeam Ltd](https://www.linkedin.com/company/investteam-ltd/about/)
