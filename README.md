@@ -4,13 +4,13 @@
 <h3 align="center">I'm a Junior Fullstack Developer from Bulgaria!</h3>
 
 
-- 🔭 I’m currently working with [InvestTeam Ltd](https://www.linkedin.com/company/investteam-ltd/about/)
+- 🔭 I’m currently working with [Distriba Ltd](https://www.linkedin.com/company/investteam-ltd/about/)
 
 - 🌱 I’m currently learning **how to be a good developer :)**
 
 - 👨‍💻 All of my projects are available at [Protfolio](http://boyan-apostolov.github.io/)
 
-- 📫 Reach me at **Bobby_Apostolov@students.softuni.bg**
+- 📫 Reach me at **bobby_apostolov@protonmail.com**
 
 - ⚡ Fun fact **In my free time I like tinkering with Arduino and sensors and playing video games**
 
