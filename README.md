@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working with [Distriba Ltd](https://www.linkedin.com/company/investteam-ltd/about/)
 
-- 🌱 I’m currently learning **how to be a good developer :)**
+- 🌱 I’m currently studying **ICT & Software Engineering @ Fontys UAS**
 
 - 👨‍💻 All of my projects are available at [Protfolio](http://boyan-apostolov.github.io/)
 
