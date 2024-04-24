@@ -4,8 +4,6 @@
 <h3 align="center">I'm a Junior Fullstack Developer from Bulgaria!</h3>
 
 
-- 🔭 I’m currently working with [Distriba Ltd](https://www.linkedin.com/company/investteam-ltd/about/)
-
 - 🌱 I’m currently studying **ICT & Software Engineering @ Fontys UAS**
 
 - 👨‍💻 All of my projects are available at [Protfolio](http://boyan-apostolov.github.io/)
